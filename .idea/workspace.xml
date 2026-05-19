@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="391a9b4b-3a09-4e1a-85d7-42d0fec49401" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/inventoryManage-platform/config-server" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-platform/config-server" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-platform/config-server/target/classes/com/example/configserver/ConfigServerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-platform/config-server/target/classes/com/example/configserver/ConfigServerApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-platform/eureka-server" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-platform/eureka-server" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-platform/eureka-server/target/classes/com/example/eurekaserver/EurekaServerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-platform/eureka-server/target/classes/com/example/eurekaserver/EurekaServerApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-platform/inventoryManage-platform/config-server" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-platform/inventoryManage-platform/config-server" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-platform/inventoryManage-platform/eureka-server" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-platform/inventoryManage-platform/eureka-server" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-services/borrowing-service" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-services/borrowing-service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-services/borrowing-service/target/classes/com/example/borrowingservice/BorrowingServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-services/borrowing-service/target/classes/com/example/borrowingservice/BorrowingServiceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-services/borrowing-service/target/classes/com/example/borrowingservice/client/InventoryClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-services/borrowing-service/target/classes/com/example/borrowingservice/client/InventoryClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-services/borrowing-service/target/classes/com/example/borrowingservice/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-services/borrowing-service/target/classes/com/example/borrowingservice/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-services/borrowing-service/target/classes/com/example/borrowingservice/controller/BorrowingController.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-services/borrowing-service/target/classes/com/example/borrowingservice/controller/BorrowingController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-services/borrowing-service/target/classes/com/example/borrowingservice/dto/InventoryDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-services/borrowing-service/target/classes/com/example/borrowingservice/dto/InventoryDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-services/borrowing-service/target/classes/com/example/borrowingservice/entity/Borrowing.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-services/borrowing-service/target/classes/com/example/borrowingservice/entity/Borrowing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-services/borrowing-service/target/classes/com/example/borrowingservice/repository/BorrowingRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-services/borrowing-service/target/classes/com/example/borrowingservice/repository/BorrowingRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-services/borrowing-service/target/classes/com/example/borrowingservice/service/BorrowingService.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-services/borrowing-service/target/classes/com/example/borrowingservice/service/BorrowingService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-services/inventory-service" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-services/inventory-service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-services/inventory-service/target/classes/com/example/inventoryservice/InventoryServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-services/inventory-service/target/classes/com/example/inventoryservice/InventoryServiceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-services/inventory-service/target/classes/com/example/inventoryservice/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-services/inventory-service/target/classes/com/example/inventoryservice/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-services/inventory-service/target/classes/com/example/inventoryservice/controller/InventoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-services/inventory-service/target/classes/com/example/inventoryservice/controller/InventoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-services/inventory-service/target/classes/com/example/inventoryservice/entity/Inventory.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-services/inventory-service/target/classes/com/example/inventoryservice/entity/Inventory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-services/inventory-service/target/classes/com/example/inventoryservice/repository/InventoryRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-services/inventory-service/target/classes/com/example/inventoryservice/repository/InventoryRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-services/inventory-service/target/classes/com/example/inventoryservice/service/InventoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-services/inventory-service/target/classes/com/example/inventoryservice/service/InventoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-services/inventoryManage-services/borrowing-service" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-services/inventoryManage-services/borrowing-service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-services/inventoryManage-services/inventory-service" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-services/inventoryManage-services/inventory-service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-services/inventoryManage-services/user-service" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-services/inventoryManage-services/user-service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-services/user-service" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-services/user-service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-services/user-service/target/classes/com/example/userservice/UserServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-services/user-service/target/classes/com/example/userservice/UserServiceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-services/user-service/target/classes/com/example/userservice/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-services/user-service/target/classes/com/example/userservice/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-services/user-service/target/classes/com/example/userservice/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-services/user-service/target/classes/com/example/userservice/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-services/user-service/target/classes/com/example/userservice/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-services/user-service/target/classes/com/example/userservice/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-services/user-service/target/classes/com/example/userservice/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-services/user-service/target/classes/com/example/userservice/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryManage-services/user-service/target/classes/com/example/userservice/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryManage-services/user-service/target/classes/com/example/userservice/service/UserService.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/inventoryManage-config-repo" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dvish2003"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Tashini4/Cloud_Final_Project.git",
+    "accountId": "3e058f7d-1a89-4369-9faf-d7fc1ae13c5b"
+  }
+}]]></component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3DwBNmpMHPTjDYUng26NIoQjazh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.ApiGatewayApplication.executor": "Run",
+    "Spring Boot.BorrowingServiceApplication.executor": "Run",
+    "Spring Boot.ConfigServerApplication.executor": "Run",
+    "Spring Boot.EurekaServerApplication.executor": "Run",
+    "Spring Boot.InventoryServiceApplication.executor": "Run",
+    "Spring Boot.UserServiceApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/vishanchathuranga/Documents/Cloud_Final_Project",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15234375",
+    "project.structure.side.proportion": "0.2",
+    "run.configurations.included.in.services": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="configurationStatuses">
+      <map>
+        <entry key="SpringBootApplicationConfigurationType">
+          <value>
+            <map>
+              <entry key="ApiGatewayApplication" value="STOPPED" />
+              <entry key="BorrowingServiceApplication" value="STOPPED" />
+              <entry key="ConfigServerApplication" value="STOPPED" />
+              <entry key="EurekaServerApplication" value="STOPPED" />
+              <entry key="InventoryServiceApplication" value="STOPPED" />
+              <entry key="UserServiceApplication" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ApiGatewayApplication">
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.gateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BorrowingServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="borrowing-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.borrowingservice.BorrowingServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.configserver.ConfigServerApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.configserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaserver.EurekaServerApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.eurekaserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventoryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="inventory-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.inventoryservice.InventoryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.userservice.UserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EurekaServerApplication" />
+        <item itemvalue="Spring Boot.ConfigServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="391a9b4b-3a09-4e1a-85d7-42d0fec49401" name="Changes" comment="" />
+      <created>1779183214986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779183214986</updated>
+      <workItem from="1779183216200" duration="6617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

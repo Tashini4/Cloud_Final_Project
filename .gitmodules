@@ -1,0 +1,12 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://Tashini4@github.com/Tashini4/inventoryManage-frontend.git
+[submodule "inventoryManage-config-repo"]
+	path = inventoryManage-config-repo
+	url = https://Tashini4@github.com/Tashini4/inventoryManage-config-repo.git
+[submodule "inventoryManage-platform"]
+	path = inventoryManage-platform
+	url = https://Tashini4@github.com/Tashini4/inventoryManage-platform.git
+[submodule "inventoryManage-services"]
+	path = inventoryManage-services
+	url = https://Tashini4@github.com/Tashini4/inventoryManage-services.git
